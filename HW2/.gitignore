@@ -1,0 +1,8 @@
+# Local Python files
+.venv/
+__pycache__/
+*.py[cod]
+
+# Reproducible experiment outputs and the local assignment handout
+/output/
+/Homework 2.pdf
